@@ -12,3 +12,4 @@ C:\Users\AlbertLeme\OneDrive - Directy & Health Consultoria LTDA\Área de Trabal
 C:\Users\AlbertLeme\OneDrive - Directy & Health Consultoria LTDA\Área de Trabalho\CSharpProjects\TestProject\obj\Debug\net9.0\TestProject.pdb
 C:\Users\AlbertLeme\OneDrive - Directy & Health Consultoria LTDA\Área de Trabalho\CSharpProjects\TestProject\obj\Debug\net9.0\TestProject.genruntimeconfig.cache
 C:\Users\AlbertLeme\OneDrive - Directy & Health Consultoria LTDA\Área de Trabalho\CSharpProjects\TestProject\obj\Debug\net9.0\ref\TestProject.dll
+C:\Users\AlbertLeme\OneDrive - Directy & Health Consultoria LTDA\Área de Trabalho\CSharpProjects\TestProject\obj\Debug\net9.0\TestProject.sourcelink.json
